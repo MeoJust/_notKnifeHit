@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1232a477d6fb6d645a3edeaa6bac3346, type: 3}
+  m_Name: WatermelonSpawner
+  m_EditorClassIdentifier: 
+  _prefabToSpawn: {fileID: 7208956096922364163, guid: f291543e449ce4444973a182ba7dd022, type: 3}
+  _spawnPointsPrefab: {fileID: 821670230131752675, guid: 11aa2349d58db1642a05a136b0cafc90, type: 3}
